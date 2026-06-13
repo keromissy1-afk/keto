@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "سماعات لاسلكية بلوتوث 5.3",
+    "emoji": "📱",
+    "price_new": 299,
+    "price_old": 499,
+    "category": "إلكترونيات",
+    "url": "https://www.noon.com/egypt-ar/?coupon=KETOOOO"
+  },
+  {
+    "id": 2,
+    "name": "ساعة ذكية رياضية Smart Watch",
+    "emoji": "⌚",
+    "price_new": 450,
+    "price_old": 750,
+    "category": "إلكترونيات",
+    "url": "https://www.noon.com/egypt-ar/?coupon=KETOOOO"
+  },
+  {
+    "id": 3,
+    "name": "حقيبة لاب توب 15.6 بوصة",
+    "emoji": "💻",
+    "price_new": 189,
+    "price_old": 320,
+    "category": "إلكترونيات",
+    "url": "https://www.noon.com/egypt-ar/?coupon=KETOOOO"
+  },
+  {
+    "id": 4,
+    "name": "مقود جيمينج USB للموبايل",
+    "emoji": "🎮",
+    "price_new": 220,
+    "price_old": 380,
+    "category": "إلكترونيات",
+    "url": "https://www.noon.com/egypt-ar/?coupon=KETOOOO"
+  },
+  {
+    "id": 5,
+    "name": "سيت عناية بالبشرة كوريان",
+    "emoji": "🧴",
+    "price_new": 350,
+    "price_old": 600,
+    "category": "العناية",
+    "url": "https://www.noon.com/egypt-ar/?coupon=KETOOOO"
+  },
+  {
+    "id": 6,
+    "name": "ماكينة قهوة إسبريسو 1450W",
+    "emoji": "☕",
+    "price_new": 980,
+    "price_old": 1600,
+    "category": "بيت ومطبخ",
+    "url": "https://www.noon.com/egypt-ar/?coupon=KETOOOO"
+  }
+]
