@@ -1,6 +1,15 @@
 [
   {
-    "image": "",
-    "price_old": null
+    "timestamp": "2026-06-16T10:22:45.066+00:00",
+    "Readable date": "June 16th 2026, 10:22:45 am",
+    "Readable time": "10:22:45 am",
+    "Day of week": "Tuesday",
+    "Year": "2026",
+    "Month": "June",
+    "Day of month": "16",
+    "Hour": "10",
+    "Minute": "22",
+    "Second": "45",
+    "Timezone": "Etc/UTC (UTC+00:00)"
   }
 ]
